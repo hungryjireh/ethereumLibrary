@@ -1,0 +1,114 @@
+[
+  {
+    "id": 0,
+    "name": "The Mamba Mentality: How I Play",
+    "picture": "images/mamba-mentality.jpg",
+    "author": "Kobe Bryant",
+    "rating": 4
+  },
+  {
+    "id": 1,
+    "name": "Profiles in Corruption: Abuse of Power by America's Progressive Elite",
+    "picture": "images/corruption.jpg",
+    "author": "Peter Schweizer",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Where the Crawdads Sing",
+    "picture": "images/crawdads.jpg",
+    "author": "Delia Owens",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "American Dirt (Oprah's Book Club): A Novel",
+    "picture": "images/american-dirt.jpg",
+    "author": "Jeanine Cummins",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "name": "The Boy, the Mole, the Fox and the Horse",
+    "picture": "images/boy-mole-fox.jpg",
+    "author": "Charlie Mackesy",
+    "rating": 5
+  },
+  {
+    "id": 5,
+    "name": "Leadership Strategy and Tactics: Field Manual",
+    "picture": "images/leadership.jpg",
+    "author": "Jocko Willink",
+    "rating": 5
+  },
+  {
+    "id": 6,
+    "name": "The Defined Dish: Whole30 Endorsed, Healthy and Wholesome Weeknight Recipes",
+    "picture": "images/whole.jpg",
+    "author": "Alex Snodgrass",
+    "rating": 5
+  },
+  {
+    "id": 7,
+    "name": "Educated: A Memoir",
+    "picture": "images/educate.jpg",
+    "author": "Tara Westover",
+    "rating": 5
+  },
+  {
+    "id": 8,
+    "name": "The Silent Patient",
+    "picture": "images/silent-patient.jpg",
+    "author": "Alex Michaelides",
+    "rating": 4
+  },
+  {
+    "id": 9,
+    "name": "Harry Potter and the Goblet of Fire: The Illustrated Edition",
+    "picture": "images/harry-potter.jpg",
+    "author": "J.K. Rowling",
+    "rating": 5
+  },
+  {
+    "id": 10,
+    "name": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+    "picture": "images/atomic-habits.jpg",
+    "author": "James Clear",
+    "rating": 5
+  },
+  {
+    "id": 11,
+    "name": "The Blue Zones Kitchen: 100 Recipes to Live to 100",
+    "picture": "images/blue-zone.jpg",
+    "author": "Dan Buettner",
+    "rating": 4
+  },
+  {
+    "id": 12,
+    "name": "Just Mercy: A Story of Justice and Redemption",
+    "picture": "images/just-mercy.jpg",
+    "author": "Bryan Stevenson",
+    "rating": 5
+  },
+  {
+    "id": 13,
+    "name": "Dog Man: Fetch-22: From the Creator of Captain Underpants (Dog Man #8)",
+    "picture": "images/dog-man.jpg",
+    "author": "Dav Pilkey",
+    "rating": 5
+  },
+  {
+    "id": 14,
+    "name": "The 5 Love Languages: The Secret to Love that Lasts",
+    "picture": "images/love-languages.jpg",
+    "author": "Gary Chapman",
+    "rating": 5
+  },
+  {
+    "id": 15,
+    "name": "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",
+    "picture": "images/body-score.jpg",
+    "author": "Bessel van der Kolk M.D.",
+    "rating": 5
+  }
+]
