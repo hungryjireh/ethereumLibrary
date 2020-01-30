@@ -69,6 +69,7 @@ App = {
 
       return borrowInstance.getBorrowers.call();
       }).then(function(borrowers) {
+        console.log(borrowers);
         for (i = 0; i < borrowers.length; i++) {
           if (borrowers[i] !== '0x0000000000000000000000000000000000000000') {
             $('.panel-book').eq(i).find('button').text('Success').attr('disabled', true);
@@ -96,6 +97,7 @@ App = {
       App.contracts.Borrow.deployed().then(function(instance) {
         borrowInstance = instance;
 
+        //return borrowInstance.borrowBook(bookId, {from: account});
         return borrowInstance.borrowBook(bookId, {from: account});
       }).then(function(result) {
         return App.markBorrowed();
