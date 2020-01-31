@@ -14,3 +14,4 @@ Notes
 * Ensure that you configure your environment file (.env) with the following variables:
 1. MNEMONIC (12-word wallet secret key)
 2. PROJECT_URL (obtained from Infura)
+* The library implementation can be found in contracts/LibraryDemo.sol (OpenZeppelin's SafeMath)

@@ -19,3 +19,6 @@ I ensure that books borrowed do exist in the library, and that they have not bee
 2. Unit tests are written to ensure that components in the dapp are functioning.
 
 3. Mnemonic is not stored in plain text and is stored as an environment variable.
+
+4. Integer Overflow and Underflow (SWC-101)
+* This attack is avoided as a fixed-sized array is used.
