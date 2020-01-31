@@ -3235,6 +3235,27 @@
     "version": "0.5.12+commit.7709ece9.Emscripten.clang"
   },
   "networks": {
+    "3": {
+      "events": {
+        "0xc534967df5db3b9746ff2ee5700c41223ab9ef61714b7c1377c52c6ff351574b": {
+          "anonymous": false,
+          "inputs": [
+            {
+              "indexed": false,
+              "internalType": "uint256",
+              "name": "bookId",
+              "type": "uint256"
+            }
+          ],
+          "name": "LogBorrowed",
+          "type": "event",
+          "signature": "0xc534967df5db3b9746ff2ee5700c41223ab9ef61714b7c1377c52c6ff351574b"
+        }
+      },
+      "links": {},
+      "address": "0x221aB0E85BB5B89C47b95967b82DFA1eC66581d6",
+      "transactionHash": "0x1d92a8d3eb27817295fc6cbf0f01e6fbd91fe693fb42d17e49db8a10816d94e7"
+    },
     "5777": {
       "events": {},
       "links": {},
@@ -3267,7 +3288,8 @@
     }
   },
   "schemaVersion": "3.0.20",
-  "updatedAt": "2020-01-30T23:39:58.716Z",
+  "updatedAt": "2020-01-31T04:33:51.822Z",
+  "networkType": "ethereum",
   "devdoc": {
     "methods": {}
   },

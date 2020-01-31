@@ -1,0 +1,64 @@
+Contracts live on Ropsten test net.
+
+The two contract addresses are:
+1. Migration: 0x696e0A4f42932aed35F7224508F68a225E7ab56d
+2. Borrow: 0x221aB0E85BB5B89C47b95967b82DFA1eC66581d6
+
+Proof of deployment can be found at:
+1. https://ropsten.etherscan.io/address/0x696e0A4f42932aed35F7224508F68a225E7ab56d
+2. https://ropsten.etherscan.io/address/0x221ab0e85bb5b89c47b95967b82dfa1ec66581d6
+
+The logs are attached below:
+
+1_initial_migration.js
+======================
+
+   Deploying 'Migrations'
+   ----------------------
+   > transaction hash:    0x3509c34e05771f4a77f3b327961ad369c14f7c3b587eb5c02bc391bd44f9a626
+   > Blocks: 1            Seconds: 16
+   > contract address:    0x696e0A4f42932aed35F7224508F68a225E7ab56d
+   > block number:        7232651
+   > block timestamp:     1580445120
+   > account:             0x0C1e3824FAE559358Fc20Ef43062Ff385ae49077
+   > balance:             3.9967165
+   > gas used:            164175
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.0032835 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:           0.0032835 ETH
+
+
+2_deploy_contracts.js
+=====================
+
+   Deploying 'Borrow'
+   ------------------
+   > transaction hash:    0x1d92a8d3eb27817295fc6cbf0f01e6fbd91fe693fb42d17e49db8a10816d94e7
+   > Blocks: 1            Seconds: 20
+   > contract address:    0x221aB0E85BB5B89C47b95967b82DFA1eC66581d6
+   > block number:        7232655
+   > block timestamp:     1580445186
+   > account:             0x0C1e3824FAE559358Fc20Ef43062Ff385ae49077
+   > balance:             3.98923036
+   > gas used:            331966
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00663932 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.00663932 ETH
+
+
+Summary
+=======
+> Total deployments:   2
+> Final cost:          0.00992282 ETH
